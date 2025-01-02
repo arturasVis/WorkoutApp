@@ -1,5 +1,6 @@
 ﻿
 using WorkoutApp.Views;
+using WorkoutApp.UserControls;
 
 namespace WorkoutApp
 {
@@ -17,6 +18,8 @@ namespace WorkoutApp
             Routing.RegisterRoute("workout", typeof(WorkoutView));
             Routing.RegisterRoute("exercises", typeof(ExercisesView));
             Routing.RegisterRoute("users", typeof(UsersView));
+            Routing.RegisterRoute("createWorkout", typeof(CreateWorkoutPage));
+            Routing.RegisterRoute("workoutRoutineList", typeof(WorkoutRoutineListView));
         }
     }
 }

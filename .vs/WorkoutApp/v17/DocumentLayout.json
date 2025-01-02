@@ -3,72 +3,104 @@
   "WorkspaceRootPath": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\artel\\source\\repos\\workoutapp\\workoutapp\\viewmodels\\usersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\viewmodels\\usersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\artel\\source\\repos\\workoutapp\\workoutapp\\views\\workoutroutinelistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\views\\workoutroutinelistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\artel\\source\\repos\\workoutapp\\workoutapp\\viewmodels\\exercisesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\viewmodels\\exercisesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\artel\\source\\repos\\workoutapp\\workoutapp\\viewmodels\\workoutpageviewmodels\\workoutroutinelistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\viewmodels\\workoutpageviewmodels\\workoutroutinelistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\artel\\source\\repos\\workoutapp\\workoutapp\\resources\\controls\\usercreationpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\resources\\controls\\usercreationpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\artel\\source\\repos\\workoutapp\\workoutapp\\viewmodels\\workoutpageviewmodels\\createworkoutpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\viewmodels\\workoutpageviewmodels\\createworkoutpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\artel\\source\\repos\\workoutapp\\workoutapp\\resources\\database\\workoutappdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\resources\\database\\workoutappdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\artel\\source\\repos\\workoutapp\\workoutapp\\viewmodels\\workoutpageviewmodels\\workoutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\viewmodels\\workoutpageviewmodels\\workoutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|C:\\Users\\artel\\source\\repos\\WorkoutApp\\workoutapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\artel\\source\\repos\\workoutapp\\workoutapp\\views\\workoutview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\views\\workoutview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\artel\\source\\repos\\workoutapp\\workoutapp\\views\\usersview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|C:\\Users\\artel\\source\\repos\\WorkoutApp\\workoutapp\\views\\usersview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\views\\usersview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\artel\\source\\repos\\workoutapp\\workoutapp\\views\\exercisesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\views\\exercisesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\artel\\source\\repos\\workoutapp\\workoutapp\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\artel\\source\\repos\\workoutapp\\workoutapp\\resources\\controls\\custompopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\resources\\controls\\custompopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\artel\\source\\repos\\workoutapp\\workoutapp\\viewmodels\\workoutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\viewmodels\\workoutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\artel\\source\\repos\\workoutapp\\workoutapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\artel\\source\\repos\\workoutapp\\workoutapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\artel\\source\\repos\\workoutapp\\workoutapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\artel\\source\\repos\\workoutapp\\workoutapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\artel\\source\\repos\\workoutapp\\workoutapp\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|C:\\Users\\artel\\source\\repos\\WorkoutApp\\workoutapp\\viewmodels\\usersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\viewmodels\\usersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\artel\\source\\repos\\workoutapp\\workoutapp\\viewmodels\\homepageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\viewmodels\\homepageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\artel\\source\\repos\\workoutapp\\workoutapp\\resources\\services\\datatransferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|C:\\Users\\artel\\source\\repos\\WorkoutApp\\workoutapp\\resources\\services\\datatransferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\resources\\services\\datatransferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|C:\\Users\\artel\\source\\repos\\WorkoutApp\\workoutapp\\resources\\database\\workoutappdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\resources\\database\\workoutappdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\artel\\source\\repos\\workoutapp\\workoutapp\\views\\workoutroutinelistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\views\\workoutroutinelistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|C:\\Users\\artel\\source\\repos\\WorkoutApp\\workoutapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|C:\\Users\\artel\\source\\repos\\WorkoutApp\\workoutapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\artel\\source\\repos\\workoutapp\\workoutapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|C:\\Users\\artel\\source\\repos\\WorkoutApp\\workoutapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\artel\\source\\repos\\workoutapp\\workoutapp\\views\\createworkoutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\views\\createworkoutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\artel\\source\\repos\\workoutapp\\workoutapp\\views\\createworkoutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\views\\createworkoutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|C:\\Users\\artel\\source\\repos\\WorkoutApp\\workoutapp\\resources\\controls\\usercreationpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\resources\\controls\\usercreationpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\artel\\source\\repos\\workoutapp\\workoutapp\\models\\workoutplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\models\\workoutplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\artel\\source\\repos\\workoutapp\\workoutapp\\usercontrols\\controls\\workoutlistcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\usercontrols\\controls\\workoutlistcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\artel\\source\\repos\\workoutapp\\workoutapp\\usercontrols\\controls\\workoutlistcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\usercontrols\\controls\\workoutlistcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|c:\\users\\artel\\source\\repos\\workoutapp\\workoutapp\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|C:\\Users\\artel\\source\\repos\\WorkoutApp\\workoutapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|C:\\Users\\artel\\source\\repos\\WorkoutApp\\workoutapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|C:\\Users\\artel\\source\\repos\\WorkoutApp\\workoutapp\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661CD6AF-8D5A-481D-A72E-A51E0D41E4B9}|WorkoutApp\\WorkoutApp.csproj|solutionrelative:workoutapp\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,63 +110,297 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkoutRoutineListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\ViewModels\\WorkoutPageViewmodels\\WorkoutRoutineListViewModel.cs",
+              "RelativeDocumentMoniker": "WorkoutApp\\ViewModels\\WorkoutPageViewmodels\\WorkoutRoutineListViewModel.cs",
+              "ToolTip": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\ViewModels\\WorkoutPageViewmodels\\WorkoutRoutineListViewModel.cs",
+              "RelativeToolTip": "WorkoutApp\\ViewModels\\WorkoutPageViewmodels\\WorkoutRoutineListViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T19:30:58.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersView.xaml",
+              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\Views\\UsersView.xaml",
+              "RelativeDocumentMoniker": "WorkoutApp\\Views\\UsersView.xaml",
+              "ToolTip": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\Views\\UsersView.xaml",
+              "RelativeToolTip": "WorkoutApp\\Views\\UsersView.xaml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-02T12:39:28.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\ViewModels\\UsersViewModel.cs",
+              "RelativeDocumentMoniker": "WorkoutApp\\ViewModels\\UsersViewModel.cs",
+              "ToolTip": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\ViewModels\\UsersViewModel.cs",
+              "RelativeToolTip": "WorkoutApp\\ViewModels\\UsersViewModel.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAkwEsAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T12:27:14.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateWorkoutPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\ViewModels\\WorkoutPageViewmodels\\CreateWorkoutPageViewModel.cs",
+              "RelativeDocumentMoniker": "WorkoutApp\\ViewModels\\WorkoutPageViewmodels\\CreateWorkoutPageViewModel.cs",
+              "ToolTip": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\ViewModels\\WorkoutPageViewmodels\\CreateWorkoutPageViewModel.cs",
+              "RelativeToolTip": "WorkoutApp\\ViewModels\\WorkoutPageViewmodels\\CreateWorkoutPageViewModel.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAD8AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T19:10:34.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomePageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\ViewModels\\HomePageViewModel.cs",
+              "RelativeDocumentMoniker": "WorkoutApp\\ViewModels\\HomePageViewModel.cs",
+              "ToolTip": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\ViewModels\\HomePageViewModel.cs",
+              "RelativeToolTip": "WorkoutApp\\ViewModels\\HomePageViewModel.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T12:26:48.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "WorkoutViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\ViewModels\\WorkoutPageViewmodels\\WorkoutViewModel.cs",
+              "RelativeDocumentMoniker": "WorkoutApp\\ViewModels\\WorkoutPageViewmodels\\WorkoutViewModel.cs",
+              "ToolTip": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\ViewModels\\WorkoutPageViewmodels\\WorkoutViewModel.cs",
+              "RelativeToolTip": "WorkoutApp\\ViewModels\\WorkoutPageViewmodels\\WorkoutViewModel.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T18:13:16.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorkoutView.xaml",
+              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\Views\\WorkoutView.xaml",
+              "RelativeDocumentMoniker": "WorkoutApp\\Views\\WorkoutView.xaml",
+              "ToolTip": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\Views\\WorkoutView.xaml",
+              "RelativeToolTip": "WorkoutApp\\Views\\WorkoutView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-02T17:55:01.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkoutRoutineListView.xaml",
+              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\Views\\WorkoutRoutineListView.xaml",
+              "RelativeDocumentMoniker": "WorkoutApp\\Views\\WorkoutRoutineListView.xaml",
+              "ToolTip": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\Views\\WorkoutRoutineListView.xaml",
+              "RelativeToolTip": "WorkoutApp\\Views\\WorkoutRoutineListView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-02T19:31:14.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataTransferService.cs",
+              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\Resources\\Services\\DataTransferService.cs",
+              "RelativeDocumentMoniker": "WorkoutApp\\Resources\\Services\\DataTransferService.cs",
+              "ToolTip": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\Resources\\Services\\DataTransferService.cs",
+              "RelativeToolTip": "WorkoutApp\\Resources\\Services\\DataTransferService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T12:49:07.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "WorkoutAppDatabase.cs",
               "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\Resources\\Database\\WorkoutAppDatabase.cs",
               "RelativeDocumentMoniker": "WorkoutApp\\Resources\\Database\\WorkoutAppDatabase.cs",
               "ToolTip": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\Resources\\Database\\WorkoutAppDatabase.cs",
               "RelativeToolTip": "WorkoutApp\\Resources\\Database\\WorkoutAppDatabase.cs",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAYwHgAAAATAAAA",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAnwJ8AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-02T16:27:39.68Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\Models\\User.cs",
-              "RelativeDocumentMoniker": "WorkoutApp\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\Models\\User.cs",
-              "RelativeToolTip": "WorkoutApp\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "DocumentIndex": 10,
+              "Title": "WorkoutRoutineListView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\Views\\WorkoutRoutineListView.xaml.cs",
+              "RelativeDocumentMoniker": "WorkoutApp\\Views\\WorkoutRoutineListView.xaml.cs",
+              "ToolTip": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\Views\\WorkoutRoutineListView.xaml.cs",
+              "RelativeToolTip": "WorkoutApp\\Views\\WorkoutRoutineListView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T11:33:36.944Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserCreationPopUp.cs",
-              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\Resources\\Controls\\UserCreationPopUp.cs",
-              "RelativeDocumentMoniker": "WorkoutApp\\Resources\\Controls\\UserCreationPopUp.cs",
-              "ToolTip": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\Resources\\Controls\\UserCreationPopUp.cs",
-              "RelativeToolTip": "WorkoutApp\\Resources\\Controls\\UserCreationPopUp.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAkwD8AAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T16:15:10.184Z",
+              "WhenOpened": "2025-01-02T19:31:31.093Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "WorkoutApp\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\AppShell.xaml.cs",
+              "RelativeToolTip": "WorkoutApp\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T15:39:00.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "WorkoutApp\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\MauiProgram.cs",
+              "RelativeToolTip": "WorkoutApp\\MauiProgram.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAnwCQAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T12:32:57.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\AppShell.xaml",
               "RelativeDocumentMoniker": "WorkoutApp\\AppShell.xaml",
               "ToolTip": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\AppShell.xaml",
               "RelativeToolTip": "WorkoutApp\\AppShell.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAACLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-02T15:40:10.299Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
+              "Title": "UserCreationPopUp.cs",
+              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\Resources\\Controls\\UserCreationPopUp.cs",
+              "RelativeDocumentMoniker": "WorkoutApp\\Resources\\Controls\\UserCreationPopUp.cs",
+              "ToolTip": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\Resources\\Controls\\UserCreationPopUp.cs",
+              "RelativeToolTip": "WorkoutApp\\Resources\\Controls\\UserCreationPopUp.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAkwFsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T16:15:10.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\App.xaml",
+              "RelativeDocumentMoniker": "WorkoutApp\\App.xaml",
+              "ToolTip": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\App.xaml",
+              "RelativeToolTip": "WorkoutApp\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-02T19:32:20.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateWorkoutPage.xaml",
+              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\Views\\CreateWorkoutPage.xaml",
+              "RelativeDocumentMoniker": "WorkoutApp\\Views\\CreateWorkoutPage.xaml",
+              "ToolTip": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\Views\\CreateWorkoutPage.xaml",
+              "RelativeToolTip": "WorkoutApp\\Views\\CreateWorkoutPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-02T19:10:52.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateWorkoutPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\Views\\CreateWorkoutPage.xaml.cs",
+              "RelativeDocumentMoniker": "WorkoutApp\\Views\\CreateWorkoutPage.xaml.cs",
+              "ToolTip": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\Views\\CreateWorkoutPage.xaml.cs",
+              "RelativeToolTip": "WorkoutApp\\Views\\CreateWorkoutPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T19:10:57.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WorkoutListControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\UserControls\\Controls\\WorkoutListControl.xaml.cs",
+              "RelativeDocumentMoniker": "WorkoutApp\\UserControls\\Controls\\WorkoutListControl.xaml.cs",
+              "ToolTip": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\UserControls\\Controls\\WorkoutListControl.xaml.cs",
+              "RelativeToolTip": "WorkoutApp\\UserControls\\Controls\\WorkoutListControl.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAACpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T18:00:42.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WorkoutPlan.cs",
+              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\Models\\WorkoutPlan.cs",
+              "RelativeDocumentMoniker": "WorkoutApp\\Models\\WorkoutPlan.cs",
+              "ToolTip": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\Models\\WorkoutPlan.cs",
+              "RelativeToolTip": "WorkoutApp\\Models\\WorkoutPlan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T19:03:39.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WorkoutListControl.xaml",
+              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\UserControls\\Controls\\WorkoutListControl.xaml",
+              "RelativeDocumentMoniker": "WorkoutApp\\UserControls\\Controls\\WorkoutListControl.xaml",
+              "ToolTip": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\UserControls\\Controls\\WorkoutListControl.xaml",
+              "RelativeToolTip": "WorkoutApp\\UserControls\\Controls\\WorkoutListControl.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-02T17:57:18.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "WorkoutApp\\Views\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\Views\\MainPage.xaml",
+              "RelativeToolTip": "WorkoutApp\\Views\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAACHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-02T18:16:25.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\App.xaml.cs",
               "RelativeDocumentMoniker": "WorkoutApp\\App.xaml.cs",
@@ -147,20 +413,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AppShell.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\AppShell.xaml.cs",
-              "RelativeDocumentMoniker": "WorkoutApp\\AppShell.xaml.cs",
-              "ToolTip": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\AppShell.xaml.cs",
-              "RelativeToolTip": "WorkoutApp\\AppShell.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 23,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WorkoutApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\Models\\User.cs",
+              "RelativeToolTip": "WorkoutApp\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T15:39:00.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T11:33:36.944Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 24,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\Views\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "WorkoutApp\\Views\\MainPage.xaml.cs",
@@ -168,159 +433,7 @@
               "RelativeToolTip": "WorkoutApp\\Views\\MainPage.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T13:04:35.247Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UsersView.xaml",
-              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\Views\\UsersView.xaml",
-              "RelativeDocumentMoniker": "WorkoutApp\\Views\\UsersView.xaml",
-              "ToolTip": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\Views\\UsersView.xaml",
-              "RelativeToolTip": "WorkoutApp\\Views\\UsersView.xaml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAABAAAAB1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-02T12:39:28.407Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "WorkoutApp\\MauiProgram.cs",
-              "ToolTip": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\MauiProgram.cs",
-              "RelativeToolTip": "WorkoutApp\\MauiProgram.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T12:32:57.302Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UsersViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\ViewModels\\UsersViewModel.cs",
-              "RelativeDocumentMoniker": "WorkoutApp\\ViewModels\\UsersViewModel.cs",
-              "ToolTip": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\ViewModels\\UsersViewModel.cs",
-              "RelativeToolTip": "WorkoutApp\\ViewModels\\UsersViewModel.cs",
-              "ViewState": "AQIAAEMAAAAAAAAAAAAkwEsAAABRAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T12:27:14.381Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "HomePageViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\ViewModels\\HomePageViewModel.cs",
-              "RelativeDocumentMoniker": "WorkoutApp\\ViewModels\\HomePageViewModel.cs",
-              "ToolTip": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\ViewModels\\HomePageViewModel.cs",
-              "RelativeToolTip": "WorkoutApp\\ViewModels\\HomePageViewModel.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T12:26:48.546Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "DataTransferService.cs",
-              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\Resources\\Services\\DataTransferService.cs",
-              "RelativeDocumentMoniker": "WorkoutApp\\Resources\\Services\\DataTransferService.cs",
-              "ToolTip": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\Resources\\Services\\DataTransferService.cs",
-              "RelativeToolTip": "WorkoutApp\\Resources\\Services\\DataTransferService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T12:49:07.085Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "a287b1b3-69d3-402b-a975-fa03ebfad184",
-        "Display": 1,
-        "X": 881,
-        "Y": 175,
-        "Width": 1611,
-        "Height": 769,
-        "WindowState": 2
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 3,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\Views\\MainPage.xaml",
-              "RelativeDocumentMoniker": "WorkoutApp\\Views\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\Views\\MainPage.xaml",
-              "RelativeToolTip": "WorkoutApp\\Views\\MainPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAB3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-02T12:39:26.1Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CustomPopup.cs",
-              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\Resources\\Controls\\CustomPopup.cs",
-              "RelativeDocumentMoniker": "WorkoutApp\\Resources\\Controls\\CustomPopup.cs",
-              "ToolTip": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\Resources\\Controls\\CustomPopup.cs",
-              "RelativeToolTip": "WorkoutApp\\Resources\\Controls\\CustomPopup.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACgAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T16:17:04.645Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "WorkoutViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\ViewModels\\WorkoutViewModel.cs",
-              "RelativeDocumentMoniker": "WorkoutApp\\ViewModels\\WorkoutViewModel.cs",
-              "ToolTip": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\ViewModels\\WorkoutViewModel.cs",
-              "RelativeToolTip": "WorkoutApp\\ViewModels\\WorkoutViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T16:24:07.74Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ExercisesViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\ViewModels\\ExercisesViewModel.cs",
-              "RelativeDocumentMoniker": "WorkoutApp\\ViewModels\\ExercisesViewModel.cs",
-              "ToolTip": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\ViewModels\\ExercisesViewModel.cs",
-              "RelativeToolTip": "WorkoutApp\\ViewModels\\ExercisesViewModel.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAAGgAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T16:24:13.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ExercisesView.xaml",
-              "DocumentMoniker": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\Views\\ExercisesView.xaml",
-              "RelativeDocumentMoniker": "WorkoutApp\\Views\\ExercisesView.xaml",
-              "ToolTip": "C:\\Users\\artel\\source\\repos\\WorkoutApp\\WorkoutApp\\Views\\ExercisesView.xaml",
-              "RelativeToolTip": "WorkoutApp\\Views\\ExercisesView.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-02T16:49:19.544Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T13:04:35.247Z"
             }
           ]
         }

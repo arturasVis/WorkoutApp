@@ -21,6 +21,7 @@ namespace WorkoutApp.Resources.Database
             await _database.CreateTableAsync<ExcerciseCategories>();
             await _database.CreateTableAsync<MuscleGroups>();
             await _database.CreateTableAsync<User>();
+            await _database.CreateTableAsync<WorkoutPlan>();
             await Preload();
         }
         public async Task<List<ExercisesItem>> GetExerciseItemsAsync()
@@ -154,6 +155,28 @@ namespace WorkoutApp.Resources.Database
         {
             await Init();
             await _database.DeleteAsync(exercisesItem);
+        }
+
+        internal async Task<List<WorkoutPlan>> GetWorkoutPlans()
+        {
+            await Init();
+            return await _database.Table<WorkoutPlan>().ToListAsync();
+
+        }
+
+        internal async Task<int> SaveWorkoutPlan(WorkoutPlan workoutPlan)
+        {
+            await Init();
+            if (workoutPlan.Id != 0)
+            {
+                await _database.UpdateAsync(workoutPlan);
+                return workoutPlan.Id;
+            }
+            else
+            {
+                int newId = await _database.InsertAsync(workoutPlan);
+                return workoutPlan.Id != 0 ? workoutPlan.Id : newId;
+            }
         }
     }
 }

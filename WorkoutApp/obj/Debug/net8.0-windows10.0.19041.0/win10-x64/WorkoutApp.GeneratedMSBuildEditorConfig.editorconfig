@@ -36,6 +36,18 @@ build_metadata.AdditionalFiles.ManifestResourceName = WorkoutApp.Resources.Style
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
+[C:/Users/artel/source/repos/WorkoutApp/WorkoutApp/UserControls/Controls/WorkoutListControl.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WorkoutApp.UserControls.Controls.WorkoutListControl.xaml
+build_metadata.AdditionalFiles.TargetPath = UserControls\Controls\WorkoutListControl.xaml
+build_metadata.AdditionalFiles.RelativePath = UserControls\Controls\WorkoutListControl.xaml
+
+[C:/Users/artel/source/repos/WorkoutApp/WorkoutApp/Views/CreateWorkoutPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WorkoutApp.Views.CreateWorkoutPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\CreateWorkoutPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\CreateWorkoutPage.xaml
+
 [C:/Users/artel/source/repos/WorkoutApp/WorkoutApp/Views/ExercisesView.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = WorkoutApp.Views.ExercisesView.xaml
@@ -53,6 +65,12 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = WorkoutApp.Views.UsersView.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\UsersView.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\UsersView.xaml
+
+[C:/Users/artel/source/repos/WorkoutApp/WorkoutApp/Views/WorkoutRoutineListView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WorkoutApp.Views.WorkoutRoutineListView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\WorkoutRoutineListView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\WorkoutRoutineListView.xaml
 
 [C:/Users/artel/source/repos/WorkoutApp/WorkoutApp/Views/WorkoutView.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml

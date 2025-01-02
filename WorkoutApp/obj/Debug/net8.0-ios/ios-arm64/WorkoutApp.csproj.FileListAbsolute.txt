@@ -319,3 +319,4 @@ C:\Users\artel\source\repos\WorkoutApp\WorkoutApp\obj\Debug\net8.0-ios\ios-arm64
 C:\Users\artel\source\repos\WorkoutApp\WorkoutApp\obj\Debug\net8.0-ios\ios-arm64\WorkoutApp.pdb
 C:\Users\artel\source\repos\WorkoutApp\WorkoutApp\obj\Debug\net8.0-ios\ios-arm64\WorkoutApp.genruntimeconfig.cache
 C:\Users\artel\source\repos\WorkoutApp\WorkoutApp\obj\Debug\net8.0-ios\ios-arm64\ref\WorkoutApp.dll
+C:\Users\artel\source\repos\WorkoutApp\WorkoutApp\obj\Debug\net8.0-ios\ios-arm64\WorkoutApp.sourcelink.json

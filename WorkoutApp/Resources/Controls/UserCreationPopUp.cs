@@ -88,7 +88,8 @@ namespace WorkoutApp.Resources.Controls
                     weightEntry,
                     heightEntry,
                     ageEntry,
-                    saveButton
+                    saveButton,
+                    closebutton
                 }
             };
         }

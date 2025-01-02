@@ -3,15 +3,24 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:WorkoutApp"
              xmlns:vm="clr-namespace:WorkoutApp.ViewModels"
-             x:Class="WorkoutApp.Views.WorkoutView"
-             Title="WorkoutView">
-    <ContentPage.BindingContext>
-        <vm:WorkoutViewModel/>
-    </ContentPage.BindingContext>
-    <VerticalStackLayout>
-        <Label 
-            Text="Workout View"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
-    </VerticalStackLayout>
+             xmlns:ctrl="clr-namespace:WorkoutApp.UserControls"
+             x:Class="WorkoutApp.Views.WorkoutView">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.1*" />
+            <RowDefinition Height="0.9*" />
+        </Grid.RowDefinitions>
+        <Label Text="Workouts" Style="{StaticResource Headline}" HorizontalOptions="Center"/>
+        <ListView Grid.Row="1" ItemsSource="{Binding WorkoutPlans}" SelectedItem="{Binding SelectedItem,Mode=TwoWay}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <ctrl:WorkoutListControl Grid.Row="1" TitleCard="{Binding Name}" Description="{Binding Description}"/>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Button Grid.Row="2" Text="Add Workout" Command="{Binding NavigateToWorkoutEditPageCommand}" HorizontalOptions="Center" VerticalOptions="End"/>
+
+    </Grid>
 </ContentPage>

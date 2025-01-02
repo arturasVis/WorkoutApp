@@ -14,7 +14,9 @@ namespace WorkoutApp.ViewModels
     {
 		public ICommand NavigateWorkoutPageCommand { get; set; }
 		public ICommand NavigateExercsicesPageCommand { get; set; }
-		private readonly IDataTransferService _dataTransferService;
+		public ICommand NavigateToWorkoutEditPageCommand { get; set; }
+
+        private readonly IDataTransferService _dataTransferService;
 		private User _currentUser;
 		public User CurrentUser
 		{
@@ -33,18 +35,19 @@ namespace WorkoutApp.ViewModels
         {
             _dataTransferService = dataTransferService;
             _currentUser = _dataTransferService.GetData<User>();
-            NavigateWorkoutPageCommand = new Command(async () => await NavigateToWorkoutPage());
+            //NavigateWorkoutPageCommand = new Command(async () => await NavigateToWorkoutPage());
             NavigateExercsicesPageCommand = new Command(async () => await NavigateToExercisesPage());
+            NavigateToWorkoutEditPageCommand = new Command(async () => await NavigateToWorkoutEditPage());
+        }
+
+        private async Task NavigateToWorkoutEditPage()
+        {
+            await Shell.Current.GoToAsync("workout");
         }
 
         private async Task NavigateToExercisesPage()
         {
 			await Shell.Current.GoToAsync("exercises");
-        }
-
-        private async Task NavigateToWorkoutPage()
-        {
-			await Shell.Current.GoToAsync("workout");
         }
 
         private string userName;

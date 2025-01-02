@@ -130,7 +130,7 @@ namespace WorkoutApp.ViewModels
         }
         private async void ChangeToHompage()
         {
-            _dataTransferService.SeData(SelectedItem);
+            _dataTransferService.SetData(SelectedItem);
             await Shell.Current.GoToAsync($"home");
         }
     }

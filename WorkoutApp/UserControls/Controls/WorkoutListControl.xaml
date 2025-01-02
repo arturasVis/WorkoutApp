@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentView xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Name="this"
+             x:Class="WorkoutApp.UserControls.WorkoutListControl">
+    <Border BindingContext="{x:Reference this}">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="1*" />
+            </Grid.RowDefinitions>
+            
+            <Label
+            Text="{Binding TitleCard}"/>
+            <Label Grid.Row="1" Text="{Binding Description}"/>
+        </Grid>
+    </Border>
+</ContentView>

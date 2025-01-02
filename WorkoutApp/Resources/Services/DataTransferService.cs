@@ -8,13 +8,13 @@ namespace WorkoutApp.Resources.Services
 {
     public interface IDataTransferService
     {
-        void SeData<T>(T data);
+        void SetData<T>(T data);
         T GetData<T>();
     }
     public class DataTransferService : IDataTransferService
     {
         private object _data;
-        public void SeData<T>(T data)
+        public void SetData<T>(T data)
         {
             _data = data;
         }

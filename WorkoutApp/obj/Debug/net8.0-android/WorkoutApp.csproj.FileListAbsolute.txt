@@ -1064,3 +1064,4 @@ C:\Users\artel\source\repos\WorkoutApp\WorkoutApp\obj\Debug\net8.0-android\resiz
 C:\Users\artel\source\repos\WorkoutApp\WorkoutApp\obj\Debug\net8.0-android\resizetizer\r\drawable-xxhdpi\pencil.png
 C:\Users\artel\source\repos\WorkoutApp\WorkoutApp\obj\Debug\net8.0-android\resizetizer\r\drawable-xxxhdpi\delete.png
 C:\Users\artel\source\repos\WorkoutApp\WorkoutApp\obj\Debug\net8.0-android\resizetizer\r\drawable-xxxhdpi\pencil.png
+C:\Users\artel\source\repos\WorkoutApp\WorkoutApp\obj\Debug\net8.0-android\WorkoutApp.sourcelink.json

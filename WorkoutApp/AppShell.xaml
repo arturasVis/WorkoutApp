@@ -6,6 +6,7 @@
     xmlns:local="clr-namespace:WorkoutApp"
     xmlns:vm="clr-namespace:WorkoutApp.ViewModels"
     xmlns:views="clr-namespace:WorkoutApp.Views"
+    xmlns:controls="clr-namespace:WorkoutApp.UserControls"
     Shell.FlyoutBehavior="Disabled"
     Title="WorkoutApp">
 
@@ -13,5 +14,8 @@
     <ShellContent Title="WorkoutView" Route="workout" ContentTemplate="{DataTemplate views:WorkoutView}"/>
     <ShellContent Title="ExercisesView" Route="exercises" ContentTemplate="{DataTemplate views:ExercisesView}"/>
     <ShellContent Title="UsersView" Route="users" ContentTemplate="{DataTemplate views:UsersView}"/>
+    <ShellContent Title="WokoutListControl" Route="workoutList" ContentTemplate="{DataTemplate controls:WorkoutListControl}"/>
+    <ShellContent Title="CreateWorkoutPage" Route="createWorkout" ContentTemplate="{DataTemplate views:CreateWorkoutPage}"/>
+    <ShellContent Title="WorkoutRoutineListView" Route="workoutRoutineList" ContentTemplate="{DataTemplate views:WorkoutRoutineListView}"/>
 
 </Shell>

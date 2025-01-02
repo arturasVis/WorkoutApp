@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WorkoutApp.Views.WorkoutRoutineListView"
+             Title="WorkoutRoutineListView">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="9*" />
+        </Grid.RowDefinitions>
+        <HorizontalStackLayout>
+            <Label Text="Workout: " Style="{StaticResource SubHeadline}" HorizontalOptions="Center"/>
+            <Label Text="{Binding WorkoutPlan.Name}" Style="{StaticResource SubHeadline}" HorizontalOptions="Start" LineBreakMode="WordWrap"/>
+        </HorizontalStackLayout>
+    </Grid>
+</ContentPage>
