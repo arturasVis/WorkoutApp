@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:WorkoutApp.ViewModels"
+             x:Class="WorkoutApp.Views.ExercisesView">
+    <ContentPage.BindingContext>
+        <vm:ExercisesViewModel />
+    </ContentPage.BindingContext>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.05*" />
+            <RowDefinition Height="0.8*" />
+            <RowDefinition Height="0.1*" />
+        </Grid.RowDefinitions>
+        <Label 
+            Grid.Row="0"
+            Text="Exercises"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        <ScrollView  Grid.Row="1" >
+            <ListView ItemsSource="{Binding ExercisesItems}" RowHeight="100">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell Height="150">
+                            <Grid Padding="5">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="Auto" />
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+                                <HorizontalStackLayout Grid.Row="0" Margin="2, 5, 0, 5">
+                                    <Label Text="Name: "/>
+                                    <Label Text="{Binding Name}"/>
+                                </HorizontalStackLayout>
+                                <HorizontalStackLayout Grid.Row="1" Margin="2, 5, 0, 5">
+                                    <Label Text="Category: "/>
+                                    <Label Text="{Binding Category.Name}"/>
+                                </HorizontalStackLayout>
+                                <HorizontalStackLayout Grid.Row="2" Margin="2, 5, 0, 5">
+                                    <Label Text="Muscle Group: "/>
+                                    <Label Text="{Binding MuscleGroup.Name}"/>
+                                </HorizontalStackLayout>
+                                <HorizontalStackLayout Grid.Column="1" Grid.RowSpan="2" HorizontalOptions="End">
+                                    <ImageButton Source="Resources/Images/delete.svg"
+                                        Command="{Binding Source={RelativeSource AncestorType={x:Type ListView}},Path=BindingContext.DeleteItemCommand}"
+                                        CommandParameter="{Binding .}"
+                                        BackgroundColor="Transparent"
+                                        WidthRequest="40"
+                                        HeightRequest="40"
+                                        HorizontalOptions="End" />
+                                    <ImageButton Source="Resources/Images/pencil.svg"
+                                        Command="{Binding Source={RelativeSource AncestorType={x:Type ListView}}, Path=BindingContext.EditItemCommand}"
+                                        CommandParameter="{Binding .}"
+                                        BackgroundColor="Transparent"
+                                        WidthRequest="40"
+                                        HeightRequest="40"
+                                        HorizontalOptions="End" />
+                                </HorizontalStackLayout>
+                            </Grid>
+
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </ScrollView>
+
+        <Button Text="Add Exercise" Command="{Binding ShowPopUpcommand}" Grid.Row="2" WidthRequest="300" HeightRequest="50"/>
+    </Grid>
+</ContentPage>

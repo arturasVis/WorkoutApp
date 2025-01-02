@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:WorkoutApp.ViewModels"
+             x:Class="WorkoutApp.Views.MainPage">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.1*" />
+            <RowDefinition Height="0.9*" />
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <HorizontalStackLayout>
+                <Label Text="Welcome," HorizontalOptions="Center" VerticalOptions="Center" Style="{StaticResource Headline}"/>
+                <Label Text="{Binding CurrentUser.Name}" HorizontalOptions="Center" VerticalOptions="Center" Style="{StaticResource Headline}" Margin="10,0,0,0"/>
+                <Label Text="!" HorizontalOptions="Center" VerticalOptions="Center" Style="{StaticResource Headline}"/>
+            </HorizontalStackLayout>
+
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.5*" />
+                <RowDefinition Height="0.5*" />
+                <RowDefinition Height="0.5*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.5*" />
+                <ColumnDefinition Width="0.5*" />
+            </Grid.ColumnDefinitions>
+            <Button Grid.Row="0" Grid.Column="0" Text="Start Workout" Margin="5" Command="{Binding NavigateWorkoutPageCommand}"/>
+            <Button Grid.Row="0" Grid.Column="1" Text="Edit Workout plan" Margin="5"/>
+            <Button Grid.Row="1" Grid.Column="0" Text="Track" Margin="5"/>
+            <Button Grid.Row="1" Grid.Column="1" Text="Schedule Workout" Margin="5"/>
+            <Button Grid.Row="2" Grid.Column="0" Text="Add exercise" Margin="5" Command="{Binding NavigateExercsicesPageCommand}"/>
+        </Grid>
+    </Grid>
+
+</ContentPage>

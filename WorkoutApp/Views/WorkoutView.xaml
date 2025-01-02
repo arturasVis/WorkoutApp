@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:WorkoutApp"
+             xmlns:vm="clr-namespace:WorkoutApp.ViewModels"
+             x:Class="WorkoutApp.Views.WorkoutView"
+             Title="WorkoutView">
+    <ContentPage.BindingContext>
+        <vm:WorkoutViewModel/>
+    </ContentPage.BindingContext>
+    <VerticalStackLayout>
+        <Label 
+            Text="Workout View"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+    </VerticalStackLayout>
+</ContentPage>

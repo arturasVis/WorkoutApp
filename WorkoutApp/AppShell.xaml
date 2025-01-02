@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="WorkoutApp.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:WorkoutApp"
+    xmlns:vm="clr-namespace:WorkoutApp.ViewModels"
+    xmlns:views="clr-namespace:WorkoutApp.Views"
+    Shell.FlyoutBehavior="Disabled"
+    Title="WorkoutApp">
+
+    <ShellContent Title="MainPage" Route="home" ContentTemplate="{DataTemplate views:MainPage}"/>
+    <ShellContent Title="WorkoutView" Route="workout" ContentTemplate="{DataTemplate views:WorkoutView}"/>
+    <ShellContent Title="ExercisesView" Route="exercises" ContentTemplate="{DataTemplate views:ExercisesView}"/>
+    <ShellContent Title="UsersView" Route="users" ContentTemplate="{DataTemplate views:UsersView}"/>
+
+</Shell>
